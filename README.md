@@ -18,7 +18,7 @@
 
 Welcome! I am a **Wildcard Engineer** and **Data Scientist** located in Austin, Texas USA. I'm almost full-stack, but not quite yet - I'm currently working on getting stronger with **ReactJS** for frontend dev. I love **learning, physical movement,** and **hanging with my dog Arlo**.
 
-<img align="right" alt="jpg" width="300px" src="https://media.giphy.com/media/l0K4mbH4lKBhAPFU4/giphy.gif" />
+<img align="right" alt="jpg" width="250px" src="https://media.giphy.com/media/l0K4mbH4lKBhAPFU4/giphy.gif" />
 
 **Other Things:**
 
