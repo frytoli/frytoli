@@ -16,15 +16,16 @@
 <br />
 <br />
 
-Welcome! I am a **Wildcard Engineer** and **Data Scientist** located in Austin, Texas USA. I'm almost full-stack, but not quite yet - I'm currently working on getting stronger with **ReactJS** for frontend dev. I love **learning, physical movement,** and **hanging with my dog Arlo**.
+Welcome! I am a **Wildcard Engineer** and **Data Scientist** located in Austin, Texas USA. I love **learning, physical movement,** and **hanging with my dog Arlo**.
 
 <img align="right" alt="jpg" width="250px" src="https://media.giphy.com/media/l0K4mbH4lKBhAPFU4/giphy.gif" />
 
 **Other Things:**
 
-- 👩🏻‍🎓 I am graduating from **USC** with a **Masters in Data Science** this coming August.
-- 🌱 I'm currently learning **ReactJS, Tailwind,** and **writing C bindings in Go**. 
-- 💡 My hobbies are **indoor cycling, gardening,** and **exploring new restaurants**.
+- 📛 I'm employed at **The Applied Research Laboratories, UT Austin** as an **Engineering Scientist**.
+- 👩🏻‍🎓 I'm graduating from **USC** with a **Masters in Data Science** this coming August.
+- 🌱 I'm urrently learning **ReactJS, Tailwind,** and **writing C bindings in Go**. 
+- 💡 My hobbies include **indoor cycling, gardening,** and **exploring new restaurants**.
 
 
 
